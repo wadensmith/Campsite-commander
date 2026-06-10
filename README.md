@@ -1,7 +1,7 @@
 # Campsite-commander
 NAME - WADEN SMITH 
 STUDENT NUMBER-ST10479887
-GITHUB LINK -
+GITHUB LINK -https://github.com/wadensmith/Campsite-commander
 
 DESCRIPTION 
 
