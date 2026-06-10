@@ -40,7 +40,7 @@ Home screen:
 Detailed view:
 <img width="787" height="651" alt="image" src="https://github.com/user-attachments/assets/c44b59ee-448b-4d01-8b38-2316c1941a7c" />
 
-App when running : 
+
 
 
 
