@@ -1,9 +1,12 @@
-# Campsite-commander
+ Campsite-commander
 NAME - WADEN SMITH 
+
 STUDENT NUMBER-ST10479887
+
 GITHUB LINK -https://github.com/wadensmith/Campsite-commander
 
-DESCRIPTION 
+DESCRIPTION: 
+Campsite commander is an app that gathers information about a trip planned by families. this app helps to calculate the total capacity of lugages , the catergories how much gear is taken and the name of the items 
 
 
 
